@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adventure Travelling\n"
+"Last-Translator: \n"
+"Language-Team: ThemesPride <support@themespride.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 0.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:14
+msgid 'Oops! That page can&rsquo;t be found.'
+msgstr ""
+
+#: 404.php:16
+msgid 'It looks like nothing was found at this location. Maybe try a search?'
+msgstr ""
+
+#: comments.php:29
+msgid 'One Reply to &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:38
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:60
+msgid 'Previous'
+msgstr ""
+
+#: comments.php:61
+msgid 'Next'
+msgstr ""
+
+#: comments.php:69
+msgid 'Comments are closed.'
+msgstr ""
+
+#: functions.php:24
+msgid 'Primary Menu'
+msgstr ""
+
+#: functions.php:77
+#: sidebar.php:13
+msgid 'Blog Sidebar'
+msgstr ""
+
+#: functions.php:79
+#: functions.php:99
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:87
+msgid 'Page Sidebar'
+msgstr ""
+
+#: functions.php:89
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: functions.php:97
+msgid 'Sidebar 3'
+msgstr ""
+
+#: functions.php:107
+msgid 'Footer 1'
+msgstr ""
+
+#: functions.php:117
+msgid 'Footer 2'
+msgstr ""
+
+#: functions.php:127
+msgid 'Footer 3'
+msgstr ""
+
+#: functions.php:137
+msgid 'Footer 4'
+msgstr ""
+
+#: functions.php:108
+#: functions.php:118
+#: functions.php:128
+#: functions.php:138
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:220
+msgid 'Themespride'
+msgstr ""
+
+#: archive.php:52
+#: archive.php:91
+#: archive.php:128
+#: archive.php:165
+#: archive.php:204
+#: archive.php:243
+#: archive.php:281
+#: index.php:44
+#: index.php:82
+#: index.php:119
+#: index.php:156
+#: index.php:195
+#: index.php:234
+#: index.php:272
+#: search.php:53
+#: search.php:93
+#: search.php:132
+#: search.php:171
+#: search.php:211
+#: search.php:252
+#: search.php:290
+#: single.php:29
+#: single.php:54
+#: single.php:78
+#: single.php:102
+#: single.php:128
+#: single.php:154
+#: single.php:179
+msgid  'Previous page'
+msgstr ""
+
+#: archive.php:53
+#: archive.php:92
+#: archive.php:129
+#: archive.php:166
+#: archive.php:205
+#: archive.php:244
+#: archive.php:282
+#: index.php:45
+#: index.php:83
+#: index.php:120
+#: index.php:157
+#: index.php:196
+#: index.php:235
+#: index.php:273
+#: search.php:54
+#: search.php:94
+#: search.php:133
+#: search.php:172
+#: search.php:212
+#: search.php:253
+#: search.php:291
+#: single.php:30
+#: single.php:55
+#: single.php:79
+#: single.php:103
+#: single.php:129
+#: single.php:155
+#: single.php:180
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:54
+#: archive.php:93
+#: archive.php:130
+#: archive.php:167
+#: archive.php:206
+#: archive.php:245
+#: archive.php:283
+#: index.php:46
+#: index.php:84
+#: index.php:121
+#: index.php:158
+#: index.php:197
+#: index.php:236
+#: index.php:274
+#: search.php:55
+#: search.php:95
+#: search.php:134
+#: search.php:173
+#: search.php:213
+#: search.php:254
+#: search.php:292
+#: single.php:31
+#: single.php:56
+#: single.php:80
+#: single.php:104
+#: single.php:130
+#: single.php:156
+#: single.php:181
+msgid 'Page'
+msgstr ""
+
+#: search.php:15
+msgid 'Search Results for: %s'
+msgstr ""
+
+#: search.php:17
+#: template-parts/post/content-none.php:14
+msgid 'Nothing Found'
+msgstr ""
+
+#: search.php:42
+#: search.php:82
+#: search.php:121
+#: search.php:160
+#: search.php:201
+#: search.php:241
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: searchform.php:14
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:15
+msgid 'submit button'
+msgstr ""
+
+#: inc/customizer.php:21
+msgid 'Home page Settings'
+msgstr ""
+
+#: inc/customizer.php:22
+msgid 'Description of what this panel does.'
+msgstr ""
+
+#: inc/customizer.php:27
+msgid 'Sidebar Position'
+msgstr ""
+
+#: inc/customizer.php:34
+#: inc/customizer.php:45
+#: inc/customizer.php:54
+#: inc/customizer.php:65
+msgid 'Right'
+msgstr ""
+
+#: inc/customizer.php:39
+msgid 'Theme Sidebar Position'
+msgstr ""
+
+#: inc/customizer.php:40
+msgid 'This option work for blog page, blog single page, archive page and search page.'
+msgstr ""
+
+#: inc/customizer.php:43
+#: inc/customizer.php:63
+msgid 'Full'
+msgstr ""
+
+#: inc/customizer.php:44
+#: inc/customizer.php:64
+msgid 'Left'
+msgstr ""
+
+#: inc/customizer.php:46
+msgid 'Three Columns'
+msgstr ""
+
+#: inc/customizer.php:47
+msgid 'Four Columns'
+msgstr ""
+
+#: inc/customizer.php:48
+msgid 'Grid Layout'
+msgstr ""
+
+#: inc/customizer.php:59
+msgid 'Page Sidebar Position'
+msgstr ""
+
+#: inc/customizer.php:60
+msgid 'This option work for pages.'
+msgstr ""
+
+#: inc/customizer.php:70
+msgid 'Contact Details'
+msgstr ""
+
+#: inc/customizer.php:71
+msgid 'Add your contact details'
+msgstr ""
+
+#: inc/customizer.php:81
+msgid 'Add Location'
+msgstr ""
+
+#: inc/customizer.php:91
+msgid 'Add Timming'
+msgstr ""
+
+#: inc/customizer.php:101
+#: inc/customizer.php:121
+msgid 'Add Text'
+msgstr ""
+
+#: inc/customizer.php:111
+msgid 'Add Mail Address'
+msgstr ""
+
+#: inc/customizer.php:131
+msgid 'Add Phone Number'
+msgstr ""
+
+#: inc/customizer.php:137
+msgid 'Social Media Links'
+msgstr ""
+
+#: inc/customizer.php:138
+msgid 'Add your Social Links'
+msgstr ""
+
+#: inc/customizer.php:148
+msgid 'Facebook Link'
+msgstr ""
+
+#: inc/customizer.php:158
+msgid 'Twitter Link'
+msgstr ""
+
+#: inc/customizer.php:168
+msgid 'Google Link'
+msgstr ""
+
+#: inc/customizer.php:178
+msgid 'YouTube Link'
+msgstr ""
+
+#: inc/customizer.php:188
+msgid 'Pinterest Link'
+msgstr ""
+
+#: inc/customizer.php:195
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:206
+msgid 'Show / Hide slider'
+msgstr ""
+
+#: inc/customizer.php:219
+msgid  'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:227
+msgid 'Blog Section'
+msgstr ""
+
+#: inc/customizer.php:228
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:237
+msgid 'Blog Title'
+msgstr ""
+
+#: inc/customizer.php:255
+#: inc/customizer.php:265
+#: inc/customizer.php:275
+msgid 'Select post'
+msgstr ""
+
+#: inc/customizer.php:281
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:282
+msgid 'Add copyright text.'
+msgstr ""
+
+#: inc/customizer.php:291
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:410
+msgid 'Travelling Pro Theme'
+msgstr ""
+
+#: inc/customizer.php:411
+msgid 'Upgrade Pro'
+msgstr ""
+
+#: template-parts/footer/site-info.php:12
+msgid 'Travelling WordPress Theme By'
+msgstr ""
+
+#: template-parts/header/top-bar.php:27
+msgid 'FOLLOW US:'
+msgstr ""
+
+#: template-parts/home/blog.php:59
+#: template-parts/home/slider.php:41
+msgid 'READ MORE'
+msgstr ""
+
+#: template-parts/page/content-page.php:22
+msgid 'Pages:'
+msgstr ""
+
+#: template-parts/post/content-audio.php:38
+#: template-parts/post/content-gallery.php:27
+#: template-parts/post/content-image.php:24
+#: template-parts/post/content-video.php:38
+#: template-parts/post/content-grid.php:23
+#: template-parts/post/content.php:24
+#: template-parts/post/single-post.php:14
+msgid '0 Comments'
+msgstr ""
+
+#: template-parts/post/content-audio.php:42
+#: template-parts/post/content-gallery.php:31
+#: template-parts/post/content-image.php:28
+#: template-parts/post/content-video.php:42
+#: template-parts/post/content-grid.php:27
+#: template-parts/post/content.php:28
+msgid 'Read More'
+msgstr ""
+
+#: template-parts/post/content-none.php:19
+msgid 'Ready to publish your first post'
+msgstr ""
+
+#: template-parts/post/content-none.php:23
+msgid 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.'
+msgstr ""
+
+#: template-parts/post/single-post.php:33
+msgid 'Parent post link'
+msgstr ""
+
+#: template-parts/post/single-post.php:38
+msgid 'Next:'
+msgstr ""
+
+#: template-parts/post/single-post.php:40
+msgid 'Previous:'
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid 'You must be logged in to checkout.'
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid 'Your order'
+msgstr ""

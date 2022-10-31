@@ -1,0 +1,253 @@
+/*
+Theme Name: Resort Hotel Booking
+Template: adventure-travelling
+Text Domain: resort-hotel-booking
+Author: ThemesPride
+Author URI: https://www.themespride.com/
+Theme URI: https://www.themespride.com/themes/free-hotel-booking-wordpress-theme/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Description: Resort hotel booking is a WP theme designed specifically for travel agencies, hotel websites, blogs about travel, resorts, adventure parks, and tour companies. With this theme, you will find impressive features such as clean, user-friendly, responsive, beautiful, professional, personalization options, a testimonial section, a banner, a call to action button (CTA), social media, SEO-friendly, optimized codes. Resort hotel booking is intended for use on blogs, travel websites, and hotel websites in general. As part of the theme, you will find a full-width Revolution slider and an amazing Essential Grid gallery. In order to make our resort booking theme easily found on Google and other search engines, we have optimized the SEO (search engine optimization) extensively. Ad space has been provided in abundance. Through widgets, you can integrate ad programs such as AdSense in the top, sidebar, footer, and more. The design is simple, elegant, and modern. It is, of course, responsive. Websites can be used to promote travel agencies, hotel businesses, blogs about travel, resorts, adventure parks, and tour operators. The main features of the theme include Visual Composer Page Builder with Drag and Drop layout, Revolution Slider, Mega Main Menu, Powerful Theme Options Panel, Premium Preloader, and Unlimited Colors. With just a few clicks, you can create your own custom color scheme.
+Tags: wide-blocks, block-styles, one-column, two-columns, right-sidebar, left-sidebar, three-columns, four-columns, grid-layout, custom-colors, custom-header, custom-background, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, entertainment, portfolio, photography
+Version: 0.1
+Tested up to: 6.0
+Requires PHP: 7.2
+*/
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: bold;
+}
+#main-content p a {
+  text-decoration: underline;
+}
+a,.box-content a, #theme-sidebar .textwidget a, #footer .textwidget a, .comment-body a, .entry-content a, .entry-summary a,.main-navigation a:hover,#theme-sidebar h3,#theme-sidebar a:hover,.main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a{
+  color: #faac24;
+}
+.search-box i,.prev.page-numbers, .next.page-numbers,.page-numbers,#theme-sidebar button[type="submit"], #footer button[type="submit"],span.meta-nav,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,#comments input[type="submit"],button[type="submit"],.error-404 [type="submit"],.headerbox,.main-navigation ul ul,.more-btn a,#slider .carousel-control-prev-icon, #slider .carousel-control-next-icon,.blog-info{
+  background: #faac24;
+}
+.search_inner form.search-form,#static-blog h3{
+  border-color: #faac24;
+}
+.search-box i,.call i, .email i,p.infotext,.logo a,.page-numbers,#theme-sidebar button[type="submit"], #footer button[type="submit"],span.meta-nav,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,#comments input[type="submit"],button[type="submit"],.more-btn a,.blog-info{
+  color: #fff;
+}
+
+/* HEADER */
+
+.page-template-front-page .headerbox,.page-template-front-page .menubar {
+  background: transparent;
+}
+.page-template-front-page .right_menu {
+  background: rgb(31 31 31 / 60%);
+}
+.page-template-front-page #heade-outer {
+  position: absolute;
+  width: 100%;
+  z-index: 9999;
+}
+p.infotext{
+  font-family: 'Playfair Display', serif;
+  font-style: unset;
+}
+
+/* MENUS */
+
+.main-navigation ul ul li, .menubar.scrolled .main-navigation ul ul li {
+  border-bottom: 1px solid #ffa200;
+}
+.menubar {
+  background: #1f1f1f;
+}
+
+/* SLIDER */
+
+#slider .carousel-caption {
+  right: 32%;
+  left: 32%;
+}
+#slider .inner_carousel h2,#slider .inner_carousel p,.more-btn{
+  text-align: center;
+}
+#slider .inner_carousel h2 {
+  padding: 0;
+  border: none;
+  font-size: 60px;
+}
+#slider .inner_carousel p {
+  display: none;
+}
+.more-btn a{
+  padding: 15px;
+}
+#slider .carousel-control-prev-icon, #slider .carousel-control-next-icon {
+  padding: 10px 15px;
+  font-size: 15px;
+}
+#slider .carousel-control-prev-icon:hover, #slider .carousel-control-next-icon:hover{
+  background: #222222;
+  color: #ffffff;
+}
+
+/* TOURS */
+
+#travel-offer strong {
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: 1px;
+  color: #faac24;
+}
+#travel-offer h2 {
+  font-size: 35px;
+}
+#travel-offer h3 {
+  font-size: 20px;
+}
+.cat-inner-box {
+  border: solid 1px #e0e5ea;
+  box-shadow: 0 0 5px 1px #e0e5ea;
+  position: relative;
+}
+.cat-inner-box img{
+  width: 100%;
+}
+.cat-inner-box h4 {
+  position: absolute;
+  top: 0;
+  background: #faac24;
+  padding: 8px 14px;
+  color: #1f1f1f;
+  right: 0;
+  font-size: 18px;
+}
+.offer-box a {
+  background: #faac24;
+  color: #fff;
+  padding: 8px 14px;
+  font-weight: 500;
+}
+.offer-box span i {
+  color: #faac24;
+  font-size: 14px;
+}
+
+/* OTHER CSS */
+
+.bypostauthor > .comment-body > .comment-meta > .comment-author .avatar {
+  border: 1px solid #333;
+  padding: 2px;
+}
+.aligncenter,
+div.aligncenter {
+  display: block;
+  margin: 5px auto 5px auto;
+}
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+.screen-reader-text:focus {
+  background-color: #eee;
+  clip: auto !important;
+  clip-path: none;
+  color: #444;
+  display: block;
+  font-size: 1em;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000; /* Above WP toolbar. */
+}
+
+@media screen and (max-width: 767px){
+  #slider .carousel-caption {
+    right: 12%;
+    left: 12%;
+  }
+  .page-template-front-page #heade-outer {
+    position: static;
+  }
+  .page-template-front-page .headerbox{
+    background: #faac24;
+  }
+  .page-template-front-page .menubar{
+    background: #1f1f1f;
+  }
+  #slider .inner_carousel h2{
+    display: block;
+    font-size: 20px;
+  }
+  .innermenubox {
+    padding: 0;
+  }
+  .toggle-nav i {
+    background: #faac24;
+    padding: 10px;
+  }
+  .sidenav{
+    background: #faac24;
+  }
+  .nav ul li a:hover,.main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a {
+    color: #fff;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1000px){
+  .page-template-front-page #heade-outer {
+    position: static;
+  }
+  .page-template-front-page .headerbox{
+    background: #faac24;
+  }
+  .page-template-front-page .menubar{
+    background: #1f1f1f;
+  }
+  #slider .carousel-caption {
+    right: 12%;
+    left: 12%;
+  }
+  .call i, .email i,.logo h1 {
+    font-size: 25px;
+  }
+  .innermenubox {
+    padding: 0;
+  }
+  .toggle-nav i {
+    background: #faac24;
+    padding: 10px;
+  }
+  .sidenav{
+    background: #faac24;
+  }
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1199px){
+  .page-template-front-page #heade-outer {
+    position: static;
+  }
+  .page-template-front-page .headerbox{
+    background: #faac24;
+  }
+  .page-template-front-page .menubar{
+    background: #1f1f1f;
+  }
+  #slider .carousel-caption {
+    right: 25%;
+    left: 25%;
+  }
+  .logo h1 {
+    font-size: 30px;
+  }
+}

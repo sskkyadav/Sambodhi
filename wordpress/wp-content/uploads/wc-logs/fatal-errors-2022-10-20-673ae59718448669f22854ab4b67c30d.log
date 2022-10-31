@@ -1,0 +1,52 @@
+2022-10-20T05:12:10+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in /opt/lampp/htdocs/wordpress/wp-admin/includes/class-custom-image-header.php:1276
+Stack trace:
+#0 /opt/lampp/htdocs/wordpress/wp-admin/includes/class-custom-image-header.php(1382): Custom_Image_Header->get_header_dimensions(Array)
+#1 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(307): Custom_Image_Header->ajax_header_crop('')
+#2 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/wordpress/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/wordpress/wp-admin/admin-ajax.php(187): do_action('wp_ajax_custom-...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/wordpress/wp-admin/includes/class-custom-image-header.php on line 1276
+
+2022-10-20T05:12:34+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in /opt/lampp/htdocs/wordpress/wp-admin/includes/class-custom-image-header.php:1276
+Stack trace:
+#0 /opt/lampp/htdocs/wordpress/wp-admin/includes/class-custom-image-header.php(1382): Custom_Image_Header->get_header_dimensions(Array)
+#1 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(307): Custom_Image_Header->ajax_header_crop('')
+#2 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/wordpress/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/wordpress/wp-admin/admin-ajax.php(187): do_action('wp_ajax_custom-...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/wordpress/wp-admin/includes/class-custom-image-header.php on line 1276
+
+2022-10-20T07:02:29+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /opt/lampp/htdocs/wordpress/wp-content/themes/meet-minimalist/inc/dropdown-category.php:39
+Stack trace:
+#0 /opt/lampp/htdocs/wordpress/wp-content/themes/meet-minimalist/inc/dropdown-category.php(39): in_array(0, '')
+#1 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-customize-control.php(429): Meet_Minimalist_Customize_Control_Multiple_Select->render_content()
+#2 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-customize-manager.php(4984): WP_Customize_Control->json()
+#7 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(307): WP_Customize_Manager->customize_pane_settings('')
+#8 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/wordpress/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/wordpress/wp-admin/customize.php(292): do_action('customize_contr...')
+#11 {main}
+  thrown in /opt/lampp/htdocs/wordpress/wp-content/themes/meet-minimalist/inc/dropdown-category.php on line 39
+
+2022-10-20T09:37:10+00:00 CRITICAL Uncaught Error: Attempt to assign property "page_template" on null in /opt/lampp/htdocs/wordpress/wp-includes/post.php:4548
+Stack trace:
+#0 /opt/lampp/htdocs/wordpress/wp-includes/post.php(4775): wp_insert_post(Array, false, true)
+#1 /opt/lampp/htdocs/wordpress/wp-content/plugins/elementor/includes/db.php(235): wp_update_post(Array)
+#2 /opt/lampp/htdocs/wordpress/wp-content/plugins/elementor/core/base/document.php(1205): Elementor\DB->save_plain_text(290)
+#3 /opt/lampp/htdocs/wordpress/wp-content/plugins/elementor/core/base/document.php(741): Elementor\Core\Base\Document->save_elements(Array)
+#4 /opt/lampp/htdocs/wordpress/wp-content/plugins/elementor/core/documents-manager.php(527): Elementor\Core\Base\Document->save(Array)
+#5 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /opt/lampp/htdocs/wordpress/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /opt/lampp/htdocs/wordpress/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/wordpress/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /opt/lampp/htdocs/wordpress/wp-includes/post.php on line 4548
+

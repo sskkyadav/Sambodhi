@@ -1,0 +1,71 @@
+.dashboard-notice h1{
+    margin-bottom: 0 !important;
+}
+.dashboard-notice p{
+    font-size: 15px;
+}
+
+/** Theme about page css **/
+
+.about-wrap.full-width-layout {
+    max-width: 100%;
+    background: #fff;
+    padding: 20px;
+    float: left;
+}
+.about-wrap .about-description,
+.about-wrap .about-text {
+    font-size: 17px;
+}
+.import-text {
+    font-size: 18px !important;
+    color: #fff;
+}
+.about-wrap h1,.theme-description .about-text {
+    margin: 0;
+    color: #fff;
+}
+.about-wrap h2 {
+    text-align: left;
+}
+.about-wrap h2 {
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 0;
+}
+.about-theme {
+    background: #007fff;
+    padding: 50px;
+}
+.feature-section .card {
+    background: #f5f9ff;
+    border: none;
+    max-width: none;
+}
+.feature-section {
+    width: 65%;
+    float: left;
+}
+.pro-feature-section {
+    width: 33%;
+    float: right;
+    margin-top: 20px;
+}
+.return-to-dashboard{
+    float: left;
+    width: 100%;
+}
+.pro-buttons a {
+    font-size: 16px !important;
+}
+.pro-buttons {
+    margin: 20px 0;
+}
+a.live-preview {
+    background: green !important;
+    border: none !important;
+}
+a.buy-nw {
+    background: orange !important;
+    border: none !important;
+}

@@ -1,0 +1,12 @@
+.control-section-elemento-it-solutions h3.accordion-section-title {
+  background: #e3e7ee !important;
+  color: #2771b1 !important;
+  line-height: 30px;
+}
+#customize-theme-controls .control-panel-themes>.accordion-section-title, 
+#customize-theme-controls .control-panel-themes>.accordion-section-title:hover{
+  margin: 0;
+}
+.control-section-elemento-it-solutions h3.accordion-section-title a{
+  float: right;
+}

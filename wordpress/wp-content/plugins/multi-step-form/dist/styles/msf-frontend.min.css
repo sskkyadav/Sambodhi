@@ -1,0 +1,139 @@
+#multi-step-form #ui-datepicker-div.ui-widget.ui-widget-content{-webkit-box-shadow:5px 5px 20px 0 rgba(0,0,0,0.15);-moz-box-shadow:5px 5px 20px 0 rgba(0,0,0,0.15);box-shadow:5px 5px 20px 0 rgba(0,0,0,0.15)}
+#multi-step-form .ui-datepicker td{border:0;padding:2px}#multi-step-form .ui-datepicker{width:20em;padding:.5em .5em 0}
+#multi-step-form #ui-datepicker-div.ui-widget-content{background:#fff}#multi-step-form .ui-state-default,#multi-step-form .ui-widget-content .ui-state-default,#multi-step-form #ui-datepicker-div.ui-widget-header .ui-state-default{background:#f0f0f0;border:1px solid #ddd;color:#555;font-weight:bold}
+#multi-step-form .ui-datepicker-today .ui-state-highlight{background:#fff;color:#555}
+#multi-step-form .ui-datepicker-current-day .ui-state-active{background:#555;color:#fff;border:1px solid #ddd}
+#multi-step-form .ui-widget-header{border:0;background:#f0f0f0;color:#555}#multi-step-form .ui-datepicker table{background:#fff;font-size:1em}
+#multi-step-form.fw-wizard{font-size:14px}#multi-step-form.fw-wizard p{margin-bottom:2px}
+#multi-step-form .fw-container{margin-right:auto;margin-left:auto;width:100%}#multi-step-form .fw-block-invalid .fw-text-input[type="text"],#multi-step-form .fw-block-invalid [data-id=textarea],#multi-step-form .fw-block-invalid .msfp-registration-invalid,#multi-step-form .fw-block-invalid[data-type=fw-radio] label:before,#multi-step-form .fw-block-invalid[data-type=fw-checkbox] label:before{border-color:red;background-color:#fff;border-width:2px}
+#multi-step-form .fw-block-invalid .fw-block-invalid-alert{font-size:16px;color:red;margin-top:5px;border-left:2px solid red;background:#fff;padding:5px 10px 5px 10px;box-sizing:border-box;font-weight:normal;width:100%}
+#multi-step-form .fw-alert-user{position:fixed;color:white;font-size:22px;font-weight:normal;text-align:center;padding:15px;z-index:4;bottom:150px;width:80%;left:50%;margin-left:-45%;line-height:1.5;overflow:hidden;letter-spacing:.03em;padding:20px 30px 20px 30px !important;-ms-filter:"alpha(opacity=95)" !important;filter:alpha(opacity=95) !important;-moz-opacity:.95 !important;-khtml-opacity:.95 !important;opacity:.95 !important;-webkit-box-shadow:2px 2px 20px 0 rgba(0,0,0,0.2);-moz-box-shadow:2px 2px 20px 0 rgba(0,0,0,0.3);box-shadow:2px 2px 20px 0 rgba(0,0,0,0.3)}
+#multi-step-form .fw-alert-user i{padding-right:10px}#multi-step-form .fw-alert-user.fw-alert-user-fail{background-color:#f44336}
+#multi-step-form .fw-alert-user.fw-alert-user-success{background-color:#4caf50}#multi-step-form .fw-clearfix{clear:both}
+#multi-step-form .fw-one_half{width:50% !important;float:left}#multi-step-form .fw-one_third{width:33.3333% !important;float:left}
+#multi-step-form .fw-paragraph-container p{font-size:1.2em;line-height:1.6}#multi-step-form .fw-block-header{font-size:1.2em;color:#111}
+#multi-step-form .fw-wizard-step{display:none}#multi-step-form .fw-wizard-step-header.fw-current{height:auto}
+#multi-step-form .fw-wizard-step.fw-current{display:block}#multi-step-form .fw-step-title{font-size:25px;color:#555}
+#multi-step-form .fw-step-part-title.fw-title-hidden{visibility:hidden}#multi-step-form .fw-textarea{line-height:1.5em}
+#multi-step-form .fw-wizard-buttons{margin-top:30px}#multi-step-form .fw-wizard-buttons button,#multi-step-form .fw-wizard-buttons .fw-btn{height:39px;line-height:39px;padding:0 22px;margin-top:10px;font-size:14px;color:#fff;border:0;cursor:pointer;text-transform:uppercase;letter-spacing:.05em;font-weight:normal}
+#multi-step-form .fw-wizard-buttons button:hover,#multi-step-form .fw-wizard-buttons .fw-btn:hover{-ms-filter:"alpha(opacity=80)";filter:alpha(opacity=80);-moz-opacity:.8;-khtml-opacity:.8;opacity:.8}
+#multi-step-form .fw-wizard-buttons button:focus,#multi-step-form .fw-wizard-buttons .fw-btn:focus{outline-width:0}
+#multi-step-form .fw-btn-submit,#multi-step-form .fw-toggle-summary{padding:20px 20px !important;font-size:14px;border:0;width:100%;background:#e9e9e9;color:#333;cursor:pointer;margin-top:15px;text-transform:uppercase;font-weight:normal}
+#multi-step-form .fw-btn-submit.fw-submit-success,#multi-step-form .fw-toggle-summary.fw-submit-success{background-color:#4caf50}
+#multi-step-form .fw-btn-submit.fw-submit-fail,#multi-step-form .fw-toggle-summary.fw-submit-fail{background-color:#f44336}
+#multi-step-form .fw-btn-submit:hover,#multi-step-form .fw-toggle-summary:hover{color:#666;border-color:#4891ae;float:none;width:100%}
+#multi-step-form .fw-btn-submit:focus,#multi-step-form .fw-toggle-summary:focus{outline-width:0}
+#multi-step-form .fw-btn-submit i,#multi-step-form .fw-toggle-summary i{margin-right:5px}
+#multi-step-form .fw-btn-submit{background:#aaa;color:#fff;margin-top:25px}#multi-step-form .fw-btn-submit:hover{background:#bbb;color:#fff}
+#multi-step-form .fw-button-fileupload:hover{-ms-filter:"alpha(opacity=80)";filter:alpha(opacity=80);-moz-opacity:.8;-khtml-opacity:.8;opacity:.8}
+#multi-step-form .fw-submit-alert{margin:10px 0}#multi-step-form p.fw-step-summary-title{margin-top:20px;margin-bottom:10px;font-size:1.2em;font-weight:bold;color:#111}
+#multi-step-form div.fw-step-summary-field{margin-bottom:10px;margin-left:0;border:0;border-left:8px solid gray;background-color:#e9e9e9;padding:4px}
+#multi-step-form div.fw-step-summary-field-title{font-size:1em;margin:0;padding:3px;font-weight:bold;border-bottom:1px solid #ddd}
+#multi-step-form div.fw-step-summary{font-size:1em;margin:0;padding:3px}#multi-step-form .fw-summary-alert{background-color:#f44336;padding:10px;text-align:center;text-transform:uppercase;font-size:13px;color:white}
+#multi-step-form .fw-summary-invalid{color:#f44336}#multi-step-form .fw-conditional-then-container{position:relative}
+#multi-step-form .fw-conditional-then{visibility:hidden;position:absolute;top:0;left:0}
+#multi-step-form .fw-conditional-then.fw-selected{visibility:visible}#multi-step-form .fw-step-block{margin-bottom:40px}
+#multi-step-form .fw-step-block:last-child{margin-bottom:0}#multi-step-form .fw-step-block input,#multi-step-form .fw-step-block textarea{display:inline-block !important;width:99% !important}
+#multi-step-form .fw-copytext{font-size:1.2em;line-height:1.4}#multi-step-form .fw-plain-layout{border-left:0 !important;background-color:transparent !important;padding:0 !important}
+#multi-step-form .fw-plain-layout .fw-step-part-title{margin:20px 0 20px 0 !important}
+#multi-step-form .fw-plain-layout .fw-step-part-body{margin-left:0 !important}#multi-step-form .fw-plain-layout .fa.form-control-feedback{left:16px}
+#multi-step-form [data-type=fw-radio] label:before,#multi-step-form [data-type=fw-checkbox] label:before{content:"";display:inline-block;width:25px;height:25px;margin-right:10px;position:absolute;left:0;top:0;bottom:1px;border:1px solid #ddd;border-radius:25px;background-color:#fff}
+#multi-step-form [data-type=fw-radio] label,#multi-step-form [data-type=fw-checkbox] label{display:inline-block;cursor:pointer;position:relative;padding-left:35px;margin-right:15px;font-size:1.2em;line-height:28px;font-weight:400}
+#multi-step-form [data-type=fw-radio] label:hover::before,#multi-step-form [data-type=fw-checkbox] label:hover::before{border-color:#ddd}
+#multi-step-form input.fw-radio{position:absolute;left:-9999px}#multi-step-form .fw-radio-row input[type=radio]:checked+label:before{content:"\2022";color:#555;text-align:center;line-height:24px;font-size:41px}
+#multi-step-form .fw-radio-row input[type=radio]:focus+label:before{border-color:#999}
+#multi-step-form [data-type=fw-checkbox] input{position:absolute;left:-9999px}#multi-step-form [data-type=fw-checkbox] label:before{background-color:#fff;border-radius:0;height:25px;width:25px}
+#multi-step-form [data-type=fw-checkbox] input[type=checkbox]:checked+label:before{content:"\2713";font-size:35px;color:#555;text-align:center;line-height:18px}
+#multi-step-form [data-type=fw-checkbox] input[type=checkbox]:focus+label:before{border-color:#999}
+#multi-step-form .fw-step-part-body .fw-step-summary-part{background:#f5f5f5 none repeat scroll 0 0;border:1px solid #ddd;padding-bottom:20px;padding-left:20px}
+#multi-step-form div[data-required="true"] h3:after{content:"*";color:#f44336;font-size:1.5em;position:relative;top:0;left:5px}
+#multi-step-form .fw-wizard-step-header-container{margin-bottom:20px}#multi-step-form .fw-wizard-step{position:relative}
+#multi-step-form .fw-step-part{float:left;width:100%;background:#e9e9e9 none repeat scroll 0 0;margin:0 0 50px 0;padding:20px 0 20px 0;position:relative;border-left:10px solid #546e7a;box-sizing:border-box}
+#multi-step-form .fw-step-part:last-child{margin:0 !important}#multi-step-form .fw-step-part:nth-last-of-type(2){margin:0 0 10px 0}
+#multi-step-form .fw-step-part>div{margin:0 20px 0 20px}#multi-step-form .fw-wizard-step-header{height:0;overflow:hidden}
+#multi-step-form .fw-wizard-step-header h2{font-size:2.5em;font-family:inherit;line-height:1.2}
+#multi-step-form .fw-wizard-step-header p{line-height:1.6;font-family:inherit}#multi-step-form h2.fw-step-part-title{float:left;margin:0 20px 20px 20px;font-size:1.8em;font-weight:normal;line-height:1.2}
+#multi-step-form .fw-wizard-step-container h3{font-weight:normal;font-size:1.2em;margin:10px 0 10px 0}
+#multi-step-form .select2-container .select2-selection--single{height:35px}#multi-step-form .select2-dropdown{border:1px solid #ddd !important;border-radius:0 !important}
+#multi-step-form .select2-container--default .select2-selection--single{border:1px solid #ddd !important;border-radius:0 !important;height:40px !important;padding-top:3px !important}
+#multi-step-form .select2-container--default .select2-selection--single .select2-selection__rendered{color:#777 !important;line-height:34px !important;font-weight:400 !important;font-size:14px}
+#multi-step-form .select2-container--default .select2-selection--single .select2-selection__arrow b{border-width:8px 6px 0 6px !important;margin-left:-12px !important}
+#multi-step-form .select2-container--default .select2-selection--single .select2-selection__arrow{height:30px !important;top:4px !important}
+#multi-step-form .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b{border-width:0 6px 8px 6px !important}
+#multi-step-form .select2.select2-container.select2-container--default.select2-container--focus,#multi-step-form .select2.select2-container.select2-container--default.select2-container--below,#multi-step-form .select2.select2-container.select2-container--default{width:100% !important}
+#multi-step-form .select2-selection__clear{margin-right:10px}#multi-step-form [data-type=fw-text] .fw-input-container label{font-weight:500;margin-top:40px !important}
+#multi-step-form [data-type=fw-checkbox].fw-step-block{margin-bottom:10px}#multi-step-form .fw-choice.fw-input-container{margin-bottom:8px}
+#multi-step-form .fw-text-input,#multi-step-form .fw-text-input[type="text"],#multi-step-form .fw-textarea,#multi-step-form input.msfp-registration-input{width:100%;border:1px solid #ddd;outline:0;line-height:1.6em;font-size:13px;background-color:#fff;color:#555;box-sizing:border-box;padding-left:60px;position:relative}
+#multi-step-form .fw-text-input:focus,#multi-step-form .fw-text-input[type="text"]:focus,#multi-step-form .fw-textarea:focus,#multi-step-form input.msfp-registration-input:focus{color:#555;box-sizing:border-box}
+#multi-step-form .fw-text-input::placeholder,#multi-step-form .fw-text-input[type="text"]::placeholder,#multi-step-form .fw-textarea::placeholder,#multi-step-form input.msfp-registration-input::placeholder{color:#c8c8c8}
+#multi-step-form .fw-text-input,#multi-step-form input.msfp-registration-input{height:40px}
+#multi-step-form .fw-step-block[data-type="fw-registration"] .msfp-input-container-password h3::after,#multi-step-form .fw-step-block[data-type="fw-registration"] .msfp-input-container-firstname h3::after,#multi-step-form .fw-step-block[data-type="fw-registration"] .msfp-input-container-lastname h3::after,#multi-step-form .fw-step-block[data-type="fw-registration"] .msfp-input-container-website h3::after,#multi-step-form .fw-step-block[data-type="fw-registration"] .msfp-input-container-bio h3::after{content:" "}
+#multi-step-form .fw-textarea{padding:10px 20px 10px 60px;min-height:200px}#multi-step-form .fa.form-control-feedback{position:absolute;display:inline-block;top:auto;line-height:initial;border-right:1px solid #ddd;box-sizing:border-box;color:#bbb;font-size:18px;height:20px;left:35px;margin-top:10px;padding:0 10px 0 0;width:30px}
+#multi-step-form .fa.t-area{margin-top:13px}#multi-step-form .fa.fa-user{font-size:25px;margin-top:5px;padding-top:0}
+#multi-step-form .fa-spinner{-webkit-animation:spin 1s linear infinite;-moz-animation:spin 1s linear infinite;animation:spin 1s linear infinite}
+#multi-step-form .fw-file-upload-response{margin-top:10px;font-size:16px}#multi-step-form .fw-file-upload-input{width:.1px;height:.1px;opacity:0;overflow:hidden;position:absolute;z-index:-1}
+#multi-step-form .fw-file-upload-input+label{font-weight:500;color:white;background-color:#546e7a;display:inline-block;margin-top:10px;padding:.625rem 1.25rem}
+#multi-step-form .fw-file-upload-input+label .fa{margin-right:10px}#multi-step-form .fw-file-upload-input:focus+label,#multi-step-form .fw-file-upload-input+label:hover{background-color:#333}
+#multi-step-form .fw-file-upload-input+label{cursor:pointer}#multi-step-form .fw-button-previous{margin-right:5px}
+#multi-step-form .fw-button-previous,#multi-step-form .fw-button-next{font-weight:700}
+@-moz-keyframes spin{100%{-moz-transform:rotate(360deg)}}@-webkit-keyframes spin{100%{-webkit-transform:rotate(360deg)}
+}@keyframes spin{100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}
+@media screen and (max-width:700px){#multi-step-form span.fw-radio-row{display:block;padding-right:10px}
+}@media all and (min-width:1023px){#multi-step-form .fw-wizard-buttons{margin-top:30px}
+}@media all and (min-width:769px){#multi-step-form .fw-step-part{padding:30px 0 30px 0;border-left:55px solid #546e7a}
+#multi-step-form .fw-wizard-step-header h2{margin:0 0 25px;line-height:1.4}#multi-step-form .fw-text-input,#multi-step-form .fw-text-input[type="text"],#multi-step-form input.msfp-registration-input{width:50%}
+#multi-step-form .fw-textarea{min-height:300px}#multi-step-form .select2.select2-container.select2-container--default.select2-container--focus,#multi-step-form .select2.select2-container.select2-container--default.select2-container--below,#multi-step-form .select2.select2-container.select2-container--default{width:50% !important}
+#multi-step-form h2.fw-step-part-title{margin:0 20px 20px 20px !important}#multi-step-form .fw-wizard-step-container h3{margin:10px 0 10px 0}
+#multi-step-form .fw-block-invalid-alert{background:none !important;border:none !important;padding:0 !important}
+#multi-step-form .fw-alert-user{width:60%;margin-left:-30%;bottom:150px}#multi-step-form .fw-wizard-step-header-container{margin-bottom:40px}
+#multi-step-form .fw-radio-row input[type=radio]:checked+label:before{line-height:24px;font-size:41px}
+}@media(max-width:480px){#multi-step-form .fw-button-previous,#multi-step-form .fw-button-next{width:100%}
+}#multi-step-form .fw-progress-wrap{color:#555;max-width:1800px;min-height:55px;position:relative;margin:0}
+#multi-step-form .fw-hide-progress-bar{display:none}#multi-step-form .fw-progress-bar-container{margin-bottom:30px}
+#multi-step-form .fw-progress-bar{margin:0 !important;padding:0}#multi-step-form .fw-progress-bar .fw-progress-step{color:#555;display:block;font-size:1.4em;padding:15px 20px 15px 60px;position:relative;margin-bottom:10px}
+#multi-step-form .fw-progress-bar .fw-progress-step:before{border-radius:50%;color:#fff;font-size:40px;left:0;line-height:44px;position:absolute;text-align:center;top:4px;height:50px;width:50px;padding-top:2px;z-index:1;box-sizing:border-box;font-weight:700;font-family:'Open Sans',Arial,sans-serif}
+#multi-step-form .fw-progress-bar .fw-progress-step.fw-active{color:#555;font-weight:bold}
+#multi-step-form .fw-progress-bar .fw-progress-step.fw-active:before{z-index:1}#multi-step-form .fw-progress-bar .fw-progress-step.fw-visited{z-index:1}
+#multi-step-form .fw-progress-bar .fw-progress-step.fw-visited:before{z-index:1}#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(1):before{content:"1" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(2):before{content:"2" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(3):before{content:"3" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(4):before{content:"4" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(5):before{content:"5" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(6):before{content:"6" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(7):before{content:"7" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(8):before{content:"8" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(9):before{content:"9" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:nth-child(10):before{content:"10" !important}
+#multi-step-form .fw-progress-bar .fw-progress-step:last-child:before{font-family:FontAwesome !important;content:"\f024" !important;font-size:28px;padding-top:5px}
+#multi-step-form .fw-progress-bar .fw-progress-step.fw-visited:before{content:"\2713" !important;padding-right:7px}
+#multi-step-form .fw-progress-bar a{color:#555;font-size:16px;font-weight:600;text-decoration:none}
+#multi-step-form .fw-active .fw-progress-bar-bar{width:calc(85% - 63px);-webkit-animation:progress-bar-animation 1s ease-out;-moz-animation:progress-bar-animation 1s ease-out;animation:progress-bar-animation 1s ease-out;-o-animation:progress-bar-animation 1s ease-out}
+@-moz-keyframes progress-bar-animation{0%{width:0}100%{width:calc(85% - 63px)}
+}@-webkit-keyframes progress-bar-animation{0%{width:0}100%{width:calc(85% - 63px)}
+}@keyframes progress-bar-animation{0%{width:0}100%{width:calc(85% - 63px)}
+}@-o-keyframes progress-bar-animation{0%{width:0}100%{width:calc(85% - 63px)}
+}@media all and (max-width:480px){#multi-step-form .fw-progress-bar .fw-progress-step{padding:10px 20px 0 60px !important;min-height:50px;font-size:16px}
+}@media all and (min-width:769px){#multi-step-form.fw-large-container .fw-progress-bar-container{margin-bottom:80px;width:125%;padding:0}
+#multi-step-form.fw-large-container .fw-progress-bar{border-radius:15px;height:15px;margin:0 auto;padding:0;position:absolute;width:100%}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step{display:inline-block;margin:50px 0 0;padding:10px 20px 10px 0;text-align:left;width:16%}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:before{height:65px;line-height:56px;top:-75px;width:65px;font-size:44px;position:absolute;z-index:1}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:after{content:"";background-size:35px 35px;margin:0 auto;padding:0;height:17px;width:100%;left:6%;position:absolute;top:-52px;z-index:0}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:last-child:before{font-size:35px;padding-top:5px}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:last-child:after{width:0 !important}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-active:last-child:before{content:"\f0e0";padding:5px 0 0 0;font-size:32px !important}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-active:last-child:after{width:0}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-active:last-child .fw-progress-bar-bar{display:none}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-active .fw-progress-bar-bar{height:17px;left:63px;position:absolute;top:-52px;z-index:1}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-visited{background:0}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-visited:before{font-size:40px;padding:3px 7px 0 0}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-visited:after{background-size:35px 35px;content:"";height:15px;position:absolute;top:-50px;width:100%;z-index:0}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-txt-ellipsis{width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:inline-block}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-txt-ellipsis[data-title]:hover:after{content:attr(data-title);font-size:16px;font-weight:500;color:#fff;letter-spacing:.02em;position:absolute;left:-20px;top:100%;z-index:20;background:#aaa;white-space:nowrap;padding:15px 20px 15px 20px;box-sizing:border-box;-webkit-box-shadow:5px 5px 15px 0 rgba(0,0,0,0.15);-moz-box-shadow:5px 5px 15px 0 rgba(0,0,0,0.15);box-shadow:5px 5px 15px 0 rgba(0,0,0,0.15)}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-txt-ellipsis[data-title]:hover:before{content:' ';position:absolute;border:10px solid #aaa;border-color:transparent;border-bottom-color:#aaa;border-bottom-width:13px;top:calc(100% - 22px);left:15px}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-circle,#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-circle-1,#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-circle-2{position:absolute;top:-52px;left:65px;width:17px;height:17px;border-radius:50%;z-index:2}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-circle-1{left:82px}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-circle-2{left:99px}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:nth-child(n+6){display:none}
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:last-child{display:inline-block}
+}@media all and (min-width:1023px){#multi-step-form .fw-progress-bar-container{margin-top:30px}
+}
